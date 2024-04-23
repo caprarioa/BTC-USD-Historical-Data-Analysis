@@ -1,7 +1,7 @@
 # BTC-USD Historical Data Analysis
 
 ## Project Overview
-This project is focused on analyzing historical BTC-USD trading data from CSV files. It utilizes Python to calculate and visualize various technical indicators such as the Simple Moving Averages (SMA), Moving Average Convergence Divergence (MACD), and Relative Strength Index (RSI). These indicators are used to identify potential trading signals like the Golden Cross and Death Cross, providing insights into market trends.
+This project is focused on analyzing historical BTC-USD trading data from CSV files. It utilizes Python to calculate and visualize various technical indicators such as the Bollinger Bands (BB), Simple Moving Averages (SMA), Moving Average Convergence Divergence (MACD), and Relative Strength Index (RSI). These indicators are used to identify potential trading signals like the Golden Cross and Death Cross, providing insights into market trends.
 
 ## Installation
 
