@@ -11,22 +11,24 @@ This project is focused on analyzing historical BTC-USD trading data from CSV fi
 
 ### Dependencies
 Install all the required Python libraries using the following command:
-```bash
-pip install pandas matplotlib ta
+`bash
+pip install pandas matplotlib ta`
+
 Clone the Repository
 To get started with this project, clone this repository to your local machine:
 
-git clone https://github.com/yourusername/BTC-USD-Analysis.git
-cd BTC-USD-Analysis
+`git clone https://github.com/yourusername/BTC-USD-Analysis.git`
+`cd BTC-USD-Analysis`
+
 Usage
 Running the Script
 Navigate to the project directory and run the script using:
+`python src/stock_analysis.py`
 
-python src/stock_analysis.py
 Jupyter Notebook
 If you prefer an interactive approach, open the Jupyter notebook provided:
+`jupyter notebook notebooks/AnalysisNotebook.ipynb`
 
-jupyter notebook notebooks/AnalysisNotebook.ipynb
 Features
 Golden Cross and Death Cross Detection: Identifies potential buy and sell signals based on 50-day and 200-day moving averages.
 MACD and RSI Indicators: Calculates and visualizes MACD and RSI to understand market momentum and conditions that might indicate overbought or oversold states.
